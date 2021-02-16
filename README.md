@@ -1,0 +1,1 @@
+This project implements the simplest matrix processor. You can use it to add matrices, multiply them by a number or another matrix, transpose, invert, and calculate the discriminant. The program checks the correctness of the entered data and provides an interface for interaction with the user.
